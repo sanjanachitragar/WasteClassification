@@ -23,8 +23,8 @@ Utilized the [Waste Classification Dataset](https://www.kaggle.com/datasets/tech
 ## How to Run
 1. Clone the repository
 2. Install dependencies:
-   ```bash
-   numpy==1.21.2
+```txt
+numpy==1.21.2
 datetime==4.3
 matplotlib==3.4.3
 seaborn==0.11.2
@@ -32,7 +32,7 @@ tensorflow==2.6.0
 keras==2.6.0
 scikit-learn==0.24.2
 opendatasets==0.1.20
-   ```
+```
 
 3. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/techsash/waste-classification-data) and place it in the `data` directory.
 
