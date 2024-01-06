@@ -21,12 +21,7 @@ Utilized the [Waste Classification Dataset](https://www.kaggle.com/datasets/tech
   - Implemented an end-to-end VGG-16-based transfer learning model for binary image classification.
 
 ## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/waste-classification.git
-   cd waste-classification
-   ```
-
+1. Clone the repository
 2. Install dependencies:
    ```bash
    numpy==1.21.2
